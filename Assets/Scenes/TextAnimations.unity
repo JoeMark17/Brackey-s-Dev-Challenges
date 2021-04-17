@@ -297,7 +297,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   easyText: {fileID: 482888834}
-  easyCharacter: []
+  easyCharacter: 
 --- !u!114 &482888834
 MonoBehaviour:
   m_ObjectHideFlags: 0
