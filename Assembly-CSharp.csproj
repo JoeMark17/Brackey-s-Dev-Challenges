@@ -36,6 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\2DGamePlayEnv\DialogManager.cs" />
+     <Compile Include="Assets\Scripts\2DGamePlayEnv\DialogTrigger.cs" />
      <Compile Include="Assets\Scripts\MainMenu\MenuStarter.cs" />
      <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
      <Compile Include="Assets\Scripts\TextAnimations\ColorsAnimations.cs" />
